@@ -13,7 +13,7 @@ into a unified hosts file with duplicates removed.  A variety of tailored hosts 
 
 Host file recipe | Readme | Raw hosts | Unique domains | Non GitHub mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
-Unified hosts = **(adware + malware)** | [Readme](https://raw.githubusercontent.com/Jose43cab/Youtube_Block/master/README.md) | [link](https://raw.githubusercontent.com/Jose43cab/Youtube_Block/master/README.md) | 57,681 | [link](http://sbc.io/hosts/hosts)
+Unified hosts = **(adware + malware)** | [Readme](https://raw.githubusercontent.com/Jose43cab/Youtube_Block/master/README.md) | [link](https://raw.githubusercontent.com/Jose43cab/Youtube_Block/master/README.md) | 11 |
 
 
 
